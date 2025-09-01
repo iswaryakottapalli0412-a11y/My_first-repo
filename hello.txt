@@ -1,4 +1,3 @@
-hello GitHub
 iswarya
-2352320034
-
+BACHELOR OF COMPUTER SCIENCE
+I learned in GitHub that how to create the file and run the file in github
